@@ -1,16 +1,10 @@
-# 📝 Description
+# 📝 Description / Story Summary
 
-[Please provide a brief summary of your pull request. If it is a fix for a bug, please briefly describe the problem and the solution. 
+[Please provide a brief summary of your pull request. If it is a fix for a bug, please briefly describe the problem and the solution.]
 If relevant:
-- Reference the related GitHub issue; e.g. "Fixes #333".
-- Add screenshots, flowcharts, etc.]
-
-# 🖥 API Changes
-[List any requirements that must be met for both internal and external API changes.]
-
-I have completed the following:
-- [ ] Received approval from both the frontend and backend teams for these change(s).
-- [ ] Updated the public / private API documentation to reflect these changes.
+- What's changed
+- Why
+- How
 
 # 🛫 Pre-flight checks
 [List any requirements that must be met and config changes that must be made **before** merging in this pull request.]
