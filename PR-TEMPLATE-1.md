@@ -20,7 +20,7 @@ I have completed the following:
 - [ ] Notified users / customers about the changes.
 - [ ] Notified other teams about any possible downtime.
 - [ ] Considered API limits if we're pulling / pushing large amounts of data to / from a third party API.
-- [ ] Successfully run all data migrations locally (with and without data) and in a review app / on staging.
+- [x] Successfully run all data migrations locally (with and without data) and in a review app / on staging.
 
 # 🚧 Deployment tasks
 [List any requirements that must be met and config changes that must be made **when deploying**.]
